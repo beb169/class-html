@@ -28,3 +28,12 @@ ul {
     margin-left: 120px;
     font-style: italic;
 }
+/* I'm having trouble getting past the push stage in my command line. I successfully added my xhtml and css into my appropriate folder, and was able to do `git add`,
+ * but every single time I do `git push` it asks for my Github username and password. I enter them, but then I get the error message: "remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/beb169/class-html/'." I've done this about 8 times now with no avail. I manually added my files to my Github repository,
+ * and used the link to go to my actual running website, which still only presents my readme.md file. I copied my "bindus-2.xhtml" into a second file, renamed it "index.xhtml" in hopes
+ * that it would re-locate the display of the website, but it still does my readme. I'm not sure what to do from this point forward and am just feeling frustrated right now (which I'm sure is normal,
+ * I just don't know what I'm doing wrong).*/
+ /* A brief description of my submission: I ended up manually typing `bindus-2.xhtml` into the link that github gives me which shows my readme. It isn't fully up to date with the CSS shown above (the font for h3 is
+  * smaller than the rest and not italicized in the published site, for some reason). So, hopefully by next time, I'll have a more developed link, but for now, at least I figured something out! */
